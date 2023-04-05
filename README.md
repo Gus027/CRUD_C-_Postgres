@@ -29,6 +29,6 @@ Tecnologias utilizadas
  - Abra o projeto em uma IDE que suporte C# e ASP.NET
  - Execute o arquivo SQL para criar o banco de dados e as tabelas necessárias
  - Execute a aplicação em sua IDE
- - Acesse o sistema pelo navegador, no endereço http://localhost:porta
+ 
  # Conclusão
 Este é um projeto simples em C# que utiliza as tecnologias CRUD, MVC, Postgres e JSON para permitir o cadastro e gerenciamento de informações de funcionários em um sistema. O código fonte está disponível no repositório do Github e pode ser utilizado como base para projetos maiores e mais complexos.
